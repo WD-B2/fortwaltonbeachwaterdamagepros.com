@@ -1,0 +1,2 @@
+# Cloudflare Pages resolves clean URLs and directory indexes natively.
+# No redirect rules are needed. Add real legacy paths here if they ever exist.
